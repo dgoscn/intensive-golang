@@ -15,7 +15,7 @@ func main() {
 	fmt.Println(finalScore)
 
 	//warning
-	fmt.Println("Test " + string(97)) //ascii value to concatanate
+	//fmt.Println("Test " + string(97)) //ascii value to concatanate
 
 	//int to string
 	fmt.Println("Test" + strconv.Itoa(123))
