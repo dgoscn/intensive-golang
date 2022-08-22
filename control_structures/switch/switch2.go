@@ -13,6 +13,6 @@ func main() {
 	case t.Hour() < 18:
 		fmt.Println("Evening")
 	default:
-		fmt.Println("NIght")
+		fmt.Println("Night")
 	}
 }
